@@ -1,6 +1,6 @@
-# Random-broj-igra
-Igra pogadjanja random brojeva u odredjenom opsegu.
+# Random number guessing game
+A game of guessing random numbers in a certain range.
 
-Posle svakog pogresnog unosa dobija se savet u vidu informacije da li je uneti broj veci ili manji od trazenog.
+After each incorrect entry, advice is received in the form of information on whether the entered number is greater or less than the requested number.
 
 https://bikajkula.github.io
