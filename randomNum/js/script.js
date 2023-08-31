@@ -20,9 +20,6 @@ function proveriBroj(){
 			document.getElementById('suggestionsBroj').style.color="blue";
 			document.getElementById("greske").innerHTML=greske+1;
 	}
-	else if(tryBroj!=nasumiceNiz[nivo]){
-		document.getElementById("suggestionsBroj").innerHTML="Pogresan unos";
-	}
 	else{//tacno
 		document.getElementById("suggestionsBroj").innerHTML="BRAVO";
 		document.getElementById('suggestionsBroj').style.color="green";
